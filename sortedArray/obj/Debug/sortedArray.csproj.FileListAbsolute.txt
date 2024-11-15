@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\sortedArray\sortedArray\bin\Debug\sortedArray.exe.config
+C:\Users\Admin\source\repos\sortedArray\sortedArray\bin\Debug\sortedArray.exe
+C:\Users\Admin\source\repos\sortedArray\sortedArray\bin\Debug\sortedArray.pdb
+C:\Users\Admin\source\repos\sortedArray\sortedArray\obj\Debug\sortedArray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sortedArray\sortedArray\obj\Debug\sortedArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sortedArray\sortedArray\obj\Debug\sortedArray.exe
+C:\Users\Admin\source\repos\sortedArray\sortedArray\obj\Debug\sortedArray.pdb
